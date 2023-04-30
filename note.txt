@@ -1,0 +1,5 @@
+to run project
+
+hit:
+npm i
+npm rum dev
